@@ -1,0 +1,23 @@
+{
+  "repo": "enscape-4-pro",
+  "product": "Enscape 4 Pro",
+  "kind": "3d",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "realtime-viz",
+  "topics": [
+    "enscape-4",
+    "live-walkthrough-desk",
+    "asset-people-windows",
+    "enscape-2026",
+    "how-to-install-enscape",
+    "enscape-desktop-package",
+    "panorama-capture-suite",
+    "sun-weather-tools",
+    "arch-viz-complete",
+    "enscape-pro-edition"
+  ],
+  "site": "toolix.me"
+}
